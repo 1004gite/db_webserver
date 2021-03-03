@@ -1,6 +1,12 @@
 > 프로젝트에서 배운 것
-> > 이프로젝트는 5명의 팀원이 데이터베이스
-
+> > 상황에 맞는 데이터베이스 스키마 설계
+> > mysql로컬 서버 연동, 헤로쿠(무료호스팅서비스), 라즈베리파이를 이용한 db서버
+> > sql문법 숙지
+> > ejs파일을 통한 html,js문법 숙지
+  
+  
+  
+  
 
 # https://dbprojectourhotel.herokuapp.com/  heroku 연동. 현재 sochubert/db_webserver 의 master branch와 연동.
 ----------
